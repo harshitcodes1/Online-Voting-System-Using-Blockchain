@@ -15,6 +15,10 @@
 ![image](https://github.com/harshitcodes1/E-voting-System-using-Blockchain/assets/64720101/358d1765-dccc-452a-92ff-925cc877659e)
 
 
+https://github.com/harshitcodes1/E-voting-System-using-Blockchain/assets/64720101/309a15ab-11e4-4719-b579-a705f1c7ab2d
+
+
+
 4.Registered User
 
 ![image](https://github.com/harshitcodes1/E-voting-System-using-Blockchain/assets/64720101/d21a2005-a869-4e8a-aaba-55ba03e8adef)
@@ -32,6 +36,9 @@
 
 7. Voting Area
 
-![image](https://github.com/harshitcodes1/E-voting-System-using-Blockchain/assets/64720101/9897febe-630f-4769-8985-c811e6b0c0e3)
+
+
+
+https://github.com/harshitcodes1/E-voting-System-using-Blockchain/assets/64720101/318ded2f-6779-4411-9443-dcfb03284fdb
 
 
