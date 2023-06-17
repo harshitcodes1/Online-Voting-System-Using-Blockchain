@@ -1,4 +1,4 @@
-# E-voting-System-using-Blockchain
+# Online-voting-System-using-Blockchain
 
 1. Home page
 
